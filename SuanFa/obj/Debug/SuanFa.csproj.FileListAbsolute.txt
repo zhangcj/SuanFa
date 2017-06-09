@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\SuanFa\SuanFa\bin\Debug\SuanFa.exe.config
+E:\code\Suan-Fa\SuanFa\SuanFa\bin\Debug\SuanFa.exe.config
+E:\code\Suan-Fa\SuanFa\SuanFa\bin\Debug\SuanFa.exe
+E:\code\Suan-Fa\SuanFa\SuanFa\bin\Debug\SuanFa.pdb
+E:\code\Suan-Fa\SuanFa\SuanFa\obj\Debug\SuanFa.csprojResolveAssemblyReference.cache
+E:\code\Suan-Fa\SuanFa\SuanFa\obj\Debug\SuanFa.exe
+E:\code\Suan-Fa\SuanFa\SuanFa\obj\Debug\SuanFa.pdb
